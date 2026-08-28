@@ -1,0 +1,5 @@
+,ldl_mmol,ldl_mmol,ldl_mmol
+,mean,std,count
+comorbid,,,
+False,2.4823584905660376,0.9345032438250181,318
+True,2.586730769230769,1.3250774615224163,52

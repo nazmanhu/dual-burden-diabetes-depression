@@ -1,0 +1,5 @@
+outcome,cohort_n,unadjusted_p,adjusted_p,adjusted_coef,adjusted_ci_low,adjusted_ci_high
+hba1c,735,0.0071,0.001,0.5718,0.232,0.912
+routine_visits_est,733,0.109,0.055,0.9075,-0.02,1.835
+hospital_nights_est,733,0.1672,0.068,0.1623,-0.012,0.337
+ldl_mmol,370,0.587,0.772,0.0422,-0.244,0.328
